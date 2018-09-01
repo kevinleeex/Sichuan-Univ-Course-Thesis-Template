@@ -12,7 +12,7 @@
 
 ## 使用方法
 
-1. 编辑自然辨证法.tex
+1. 编辑```main.tex```
 2. XeLaTeX: 构建aux
 3. BibLaTeX: 生成目录和参考文件
 4. XeLaTeX: 生成pdf文档
