@@ -1,6 +1,6 @@
 # Sichuan-Univ-Course-LaTeX-Template
 
-> 这是本人使用的四川大学课程$\LaTeX$模板，文中使用的是自然辩证法课程的内容。
+> 这是本人使用的四川大学课程$\LaTeX$模板。
 
 
 
@@ -13,5 +13,6 @@
 ## 使用方法
 
 1. 编辑自然辨证法.tex
-2. BibLaTex: 生成目录和参考文件
-3. XeLaTeX: 生成pdf文档
+2. XeLaTeX: 构建aux
+3. BibLaTeX: 生成目录和参考文件
+4. XeLaTeX: 生成pdf文档
